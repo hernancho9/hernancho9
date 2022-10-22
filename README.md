@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hernancho9
 - 👀 I’m interested in ... deviOS
-- 🌱 I’m currently learning ... Swift, Xcode. 
+- 🌱 I’m currently learning ... Swift, SwiftUI, UIKit, Xcode. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
